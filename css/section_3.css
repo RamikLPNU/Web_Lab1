@@ -1,0 +1,166 @@
+.section__3{
+    flex-shrink: 0; 
+    padding: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 73px;
+}
+
+.section__3-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+
+.section_3-title{
+    width: 392.346px;
+    display: flex;
+    color: #0B132A;
+    text-align: center;
+    
+    font-family: 'Rubik', sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+
+.section_3-subtitle{
+    width: 486.265px;
+    color: #4F5665;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-bottom: 58px;
+}
+
+.section_3-response{
+    display: flex;
+    gap: 44px;
+}
+
+.response{
+    border-radius: 10px;
+    border: 2px solid #F53838;
+    background: #FFF;
+
+    width: 350.462px;
+    height: 230px;
+    flex-shrink: 0;
+}
+
+.response-gray{
+    border-radius: 10px;
+    border: 2px solid #DDD;
+    background: #FFF;
+
+    width: 350.462px;
+    height: 230px;
+    flex-shrink: 0;
+}
+
+.response-pofile{
+    display: flex;
+}
+
+.response-user-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-name{
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 166.667% */
+
+    display: flex;
+    width: 138.16px;
+    height: 18px; 
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+    margin-left: 12.33px;
+    margin-top: 36.5px;
+}
+
+.user-por{
+    color: #4F5665;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 214.286% */    
+
+    display: flex;
+    width: 109.721px;
+    height: 14px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+    margin-left: 13.42px;
+    margin-top: 5px;
+}
+
+.response-pofile-logo{
+    margin-left: 26px;
+    margin-top: 35px;
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+}
+
+.rating{
+    display: flex;
+    margin-left: 57px;
+    margin-top: 38.75px;
+}
+
+.rating a{
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+}
+
+.rating img{
+    margin-left: 5px;
+    width: 24.869px;
+    height: 25.484px;
+    flex-shrink: 0;
+}
+
+.response-text{
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+
+    display: flex;
+    width: 297.892px;
+    height: 100px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+    margin: 20.25px;
+}
+
