@@ -1,0 +1,67 @@
+.section__hero{
+    width: 1207px;
+    height: 406.586px;
+    margin: 88px 147px;
+    flex-shrink: 0; 
+    padding: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section_title{
+    width: 555px;
+    color: #0B132A;
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    line-height: 70px; 
+    margin-bottom: 20px;
+}
+
+.section_subtitle{
+    width: 555px;
+    color: #4F5665;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 30px; 
+    margin-bottom: 50px;
+}
+
+.section__button{
+    width: 250px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #F53838;
+    color: #FFF;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px; 
+    box-shadow: 0px 25.29px 27px 0px rgba(245, 56, 56, 0.35);
+}
+
+/* .section__button::before {
+    content: "";
+    position: absolute;
+    top: 0; 
+    left: 5px; 
+    width: 211.829px; 
+    height: 60px; 
+    box-shadow: 0px 25.29px 27px 0px rgba(245, 56, 56, 0.35);
+    border-radius: 5px;
+} */
+
+
+.section__illustration{
+    width: 611.241px;
+    height: 406.082px;
+    flex-shrink: 0;     
+}
+
+.section__left{
+    margin-right: 40.76px;
+}

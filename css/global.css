@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1441px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bold-400{
+    font-weight: 400;
+}
+
+.bold-500{
+    font-weight: 500;
+}
+
+
+.bold-700{
+    font-weight: 700;
+}
